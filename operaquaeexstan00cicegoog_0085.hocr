@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeexstan00cicegoog/operaquaeexstan00cicegoog_0085.png"; bbox 0 0 2717 4309; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 308 1223 1026 1331">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 308 1223 1026 1331">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 1223 1026 1331; baseline 0.013 -13"><span class='ocrx_word' id='word_1_1' title='bbox 308 1223 564 1323; x_wconf 77' lang='lat' dir='ltr'>MARCI</span> <span class='ocrx_word' id='word_1_2' title='bbox 602 1234 871 1331; x_wconf 79' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1024 1324 1026 1327; x_wconf 82' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 181 1429 1015 1822">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 181 1429 1015 1822">
+     <span class='ocr_line' id='line_1_2' title="bbox 181 1429 1015 1620; baseline 0.019 -16"><span class='ocrx_word' id='word_1_4' title='bbox 181 1429 1015 1620; x_wconf 80' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 336 1695 835 1822; baseline 0.02 -10"><span class='ocrx_word' id='word_1_5' title='bbox 336 1695 835 1822; x_wconf 71' lang='lat' dir='ltr'>OPERuM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 279 1947 1114 2092">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 279 1947 1114 2092">
+     <span class='ocr_line' id='line_1_4' title="bbox 279 1947 1114 2092; baseline 0.019 -60"><span class='ocrx_word' id='word_1_6' title='bbox 279 1947 889 2092; x_wconf 54' lang='lat' dir='ltr'>PARsPR1M4</span> <span class='ocrx_word' id='word_1_7' title='bbox 1111 1984 1114 1993; x_wconf 91' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1364 4309">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1364 4309">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1364 4309; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1364 4309; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
